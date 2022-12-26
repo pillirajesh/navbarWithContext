@@ -1,0 +1,50 @@
+/* Write your CSS here */
+
+.navbar-container {
+  height: 10vh;
+  border: 1px solid #333333;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 12px;
+}
+
+.navbar-items-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+}
+
+.link {
+  text-decoration: none;
+  color: #1e293b;
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 17px;
+  margin-right: 10px;
+  list-style-type: none;
+}
+
+.link-container {
+  display: flex;
+  padding-left: 0px;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.change-color {
+  background-color: #333333;
+}
+
+.color {
+  color: #ffffff;
+}

@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.not-found-container {
+  background-color: #ffffff;
+  height: 100vh;
+}
+
+.not-color {
+  background-color: #000000;
+}
+
+.not-found-text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'roboto';
+  font-size: 30px;
+  color: #1e293b;
+  font-weight: bold;
+}
+
+.heading-color {
+  color: #ffffff;
+}
+
+.paragraph {
+  font-family: 'roboto';
+  font-size: 15px;
+  color: #1e293b;
+  font-weight: bold;
+}
+
+.paragraph-color {
+  color: #ffffff;
+}
+
+.not-found-image {
+  height: 500px;
+  width: 550px;
+}

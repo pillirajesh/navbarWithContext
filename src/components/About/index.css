@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.about-container {
+  height: 100vh;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.background-color {
+  background-color: #000000;
+}
+
+.about-icon {
+  width: 300px;
+  height: 300px;
+  margin-top: 200px;
+}
+
+.about-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
